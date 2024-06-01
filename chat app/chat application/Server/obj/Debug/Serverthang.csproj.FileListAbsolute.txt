@@ -1,0 +1,36 @@
+D:\TestApps\Serverthang\bin\Debug\Serverthang.exe.config
+D:\TestApps\Serverthang\bin\Debug\Serverthang.exe
+D:\TestApps\Serverthang\bin\Debug\Serverthang.pdb
+D:\TestApps\Serverthang\obj\Debug\Serverthang.Form1.resources
+D:\TestApps\Serverthang\obj\Debug\Serverthang.Properties.Resources.resources
+D:\TestApps\Serverthang\obj\Debug\Serverthang.csproj.GenerateResource.cache
+D:\TestApps\Serverthang\obj\Debug\Serverthang.csproj.CoreCompileInputs.cache
+D:\TestApps\Serverthang\obj\Debug\Serverthang.exe
+D:\TestApps\Serverthang\obj\Debug\Serverthang.pdb
+D:\TestApps\Serverthang\obj\Debug\Serverthang.csprojAssemblyReference.cache
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\bin\Debug\Serverthang.exe.config
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\bin\Debug\Serverthang.exe
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\bin\Debug\Serverthang.pdb
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.Form1.resources
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.Properties.Resources.resources
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.csproj.GenerateResource.cache
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.exe
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.pdb
+C:\Users\THANGDOAN\Google Drive\Ths\TestApps\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.csprojAssemblyReference.cache
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\bin\Debug\Serverthang.exe.config
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\bin\Debug\Serverthang.exe
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\bin\Debug\Serverthang.pdb
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.Form1.resources
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.Properties.Resources.resources
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.csproj.GenerateResource.cache
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.exe
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.pdb
+E:\TestApps\Kovalob 26_11_2019\Kovalob 26_11_2019\Kovalob_Server_26_11_2019\obj\Debug\Serverthang.csprojAssemblyReference.cache
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\bin\Debug\Serverthang.exe.config
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\bin\Debug\Serverthang.exe
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\bin\Debug\Serverthang.pdb
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\obj\Debug\Serverthang.Properties.Resources.resources
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\obj\Debug\Serverthang.csproj.GenerateResource.cache
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\obj\Debug\Serverthang.exe
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\obj\Debug\Serverthang.pdb
+E:\TestApps\Cokolov_01_04_2020\Cokolov_01_04_2020\Cokolov_01_04_2020_Server\obj\Debug\Serverthang.Form1.resources
